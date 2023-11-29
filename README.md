@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Moaz Eldsouky</h1>
 <h3 align="center">I'm a third-year student at the College of Artificial Intelligence. Welcome to my GitHub profile! Here you'll find some of the projects I've been working on.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazeldsouky&label=Profile%20views&color=0e75b6&style=flat" alt="moazeldsouky" /> </p>
 
-- 🔭 I’m currently **junior AI student**
+- 🔭 I’m currently a junior AI student
 
-- 🌱 I’m continuously learning and staying updated with the latest **AI advancements**
+- 🌱 I’m continuously learning and staying updated with the latest AI advancements
 
-- 👯 I’m open to collaboration on exciting **AI projects**
+- 👯 I’m open to collaboration on exciting AI projects
 
-- 💬 Ask me about anything related to **AI**
+- 💬 Ask me about anything related to AI
 
-- 📫 How to reach me **moazeldsoky8@gmail.com**
+- 📫 How to reach me <a href="mailto:moazeldsoky8@gmail.com">moazeldsoky8@gmail.com</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
