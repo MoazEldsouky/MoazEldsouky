@@ -22,7 +22,28 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="left">Here are some projects I've worked on:<br><br>- 🌱 Plant leaf Diseases Classification using CNN: [https://huggingface.co/spaces/moazx/Plant_leaf_diseases_detection_using_CNN]<br>- Dogs vs Cats classification with Xception 🐶vs 😺: [https://huggingface.co/spaces/moazx/Dogs-vs-Cats-classification-with-Xception]<br>- 🍔 Restaurant Review Sentiment Analysis: [https://restaurant-review-sentiment-analysis-u56afmcb5.streamlit.app/]<br>- ...</p>
+<div align="left">
+  <h3>Projects Portfolio</h3>
+  <ul>
+    <li>
+      <strong>Plant Leaf Diseases Classification using CNN 🌱</strong>: Check it out on 
+      <a href="https://huggingface.co/spaces/moazx/Plant_leaf_diseases_detection_using_CNN" target="_blank">Hugging Face</a>
+    </li>
+    <li>
+      <strong>Dogs vs Cats Classification with Xception 🐶 vs 😺</strong>: Explore the model on 
+      <a href="https://huggingface.co/spaces/moazx/Dogs-vs-Cats-classification-with-Xception" target="_blank">Hugging Face</a>
+    </li>
+    <li>
+      <strong>Restaurant Review Sentiment Analysis 🍔</strong>: Try the live demo 
+      <a href="https://restaurant-review-sentiment-analysis-u56afmcb5.streamlit.app/" target="_blank">here</a>
+    </li>
+    <li>
+      <strong>Heart Attack Predictor</strong>: Experience the app at 
+      <a href="https://heart-disease-predictor-app-d2xllmymrj.streamlit.app/" target="_blank">this link</a>
+    </li>
+  </ul>
+  <!-- Add more projects as needed -->
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moazeldsouky&show_icons=true&locale=en&layout=compact" alt="moazeldsouky" /></p>
