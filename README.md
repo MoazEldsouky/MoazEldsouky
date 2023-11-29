@@ -10,7 +10,7 @@
 
 - 💬 Ask me about anything related to AI
 
-- 📫 How to reach me <a href="mailto:moazeldsoky8@gmail.com">moazeldsoky8@gmail.com</a>
+- 📫 How to reach me <a href="mailto:moazeldsoky8@gmail.com">Gmail</a>
 
 
 <h3 align="left">Connect with me:</h3>
