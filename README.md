@@ -9,7 +9,7 @@
 
 - 👯 I’m open to collaboration on exciting **AI projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoazEldsouky](https://github.com/MoazEldsouky)
+- 👨‍💻 All of my projects are available at [https://github.com/MoazEldsouky](https://github.com/MoazEldsouky) and [https://www.kaggle.com/moazeldsokyx]
 
 - 💬 Ask me about anything related to **AI**
 
