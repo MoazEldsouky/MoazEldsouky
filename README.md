@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="mailto:moazeldsoky8@gmail.com">Gmail</a>
 
-- 📞 phone +20 1096448317
+- 📞 <a href="https://wa.me/+201096448317" target="_blank">+201096448317</a>
 
 
 <h3 align="left">Connect with me:</h3>
