@@ -12,6 +12,8 @@
 
 - 📫 How to reach me <a href="mailto:moazeldsoky8@gmail.com">Gmail</a>
 
+- 📞 phone +20 1096448317
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
