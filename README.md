@@ -104,7 +104,7 @@ Results-driven AI Engineer with **1+ years** of specialized experience in **Natu
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moazeldsouky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazeldsouky&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazeldsouky&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages"/>
 </div>
 
 <div align="center">
