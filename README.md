@@ -2,7 +2,6 @@
 
 ## AI Engineer | ML Engineer | NLP Specialist
 
-[![Profile Views](https://komarev.com/ghpvc/?username=moazeldsouky&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/moazeldsouky)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-eldesouky-762288251/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moazeldsoky8@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/moazeldsokyx)
@@ -123,19 +122,6 @@ AI Engineer specializing in **Natural Language Processing (NLP)**, **Large Langu
 - Designed full-stack solution from sensor integration to model deployment
 - **Tech Stack**: Python, Scikit-learn, Arduino, Raspberry Pi, FastAPI
 - **Impact**: Enhanced agricultural decision-making for farmers in remote areas
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moazeldsouky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazeldsouky&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moazeldsouky&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
