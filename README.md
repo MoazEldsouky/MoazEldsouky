@@ -1,106 +1,132 @@
 # Hi 👋, I'm Moaz Eldsouky
 
-## AI Engineer | Machine Learning Engineer | NLP Specialist
+## AI Engineer | ML Engineer | NLP Specialist
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moazeldsouky&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/moazeldsouky)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-eldesouky-762288251/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moazeldsoky8@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/moazeldsokyx)
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-Results-driven AI Engineer with **1+ years** of specialized experience in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **AI Agent Development**. I specialize in fine-tuning state-of-the-art transformer models, building intelligent RAG systems, and developing autonomous AI agents with advanced reasoning capabilities.
+AI Engineer specializing in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **production AI systems**. I build autonomous AI agents, optimize transformer models, and develop scalable RAG pipelines that solve real-world problems.
 
-- 🔬 **Expertise**: Fine-tuning LLMs (LLAMA 3, Mistral, Qwen), RAG Systems, AI Agents
-- 💼 **Freelancing**: Delivered **15+ AI solutions** with 100% client satisfaction rate
-- 🎓 **Education**: B.S. in Artificial Intelligence from Kafrelsheikh University (Grade: Very Good)
+- 💼 **Current Role**: AI Software Engineer at **Volaris LLC** (Sept 2023 - Present)
+- 🔬 **Expertise**: Fine-tuning LLMs, RAG Systems, AI Agents, Model Deployment
+- 📊 **Freelance Success**: Delivered **15+ AI solutions** with 100% client satisfaction
+- 🎓 **Education**: B.S. in Artificial Intelligence from Kafrelsheikh University
 - 🌍 **Languages**: Arabic (Native), English (Proficient)
 - 📍 **Location**: Kafr El-Shaikh, Egypt
 
-### 💡 Current Focus
+---
 
-- 🌱 Advancing my expertise in **AI Agents**, **LangChain**, and **Mistral-style architectures**
-- 👯 Open to collaboration on **Applied AI & NLP projects**
-- 💬 Ask me about **LLMs**, **Fine-tuning**, **RAG Systems**, or **AI Deployment**
-- 🔍 Exploring cutting-edge **MLOps** practices and **scalable AI solutions**
+## 💼 Professional Experience
+
+### AI Software Engineer @ Volaris LLC
+**September 2023 - Present | Hybrid**
+
+- 🏥 Architected specialized **RAG system for oncologists**, processing medical guidelines with domain-specific embedding models and ChromaDB
+- 🔍 Engineered hybrid search strategy combining **BM25 lexical search** and **vector similarity retrieval** for high-precision medical context delivery
+- 🎯 Implemented multi-dimensional filtering across specialty, therapy area, and provider type for accurate clinical information retrieval
+- 🤖 Built automated **HBV Clinical Assessment Engine** processing 15+ clinical parameters with validated JSON outputs
+- 💬 Integrated chat session memory and metadata tracking for maintaining clinical conversation flow with verifiable citations
+
+### Freelance AI Engineer @ Mostaql Platform
+**March 2024 - Present | Remote**
+
+- ✅ Delivered **15+ AI solutions** including custom ML models, intelligent agents, and RAG chatbots
+- 🎯 Fine-tuned LLMs achieving **95%+ accuracy** in QA, code repair, and text classification
+- 🤖 Developed autonomous AI agents with integrated tools for complex multi-step automation
+- 📚 Implemented RAG systems using vector databases and embedding models for enhanced information retrieval
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
-#### **Programming & Core Technologies**
+### **Core Technologies**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-#### **AI/ML Frameworks & Libraries**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-#### **NLP & LLM Specializations**
-- **Large Language Models**: Fine-tuning, Prompt Engineering, Model Optimization
-- **NLP Tasks**: Text Classification, NER, Sentiment Analysis, Question Answering
-- **Advanced AI**: RAG Systems, AI Agents, Multi-step Task Execution
-- **Vector Databases**: FAISS, Chroma, Pinecone
+### **AI/ML Specializations**
+- **Large Language Models**: Fine-tuning (LoRA, QLoRA), Prompt Engineering, Model Optimization
+- **NLP**: Transformer Architecture, Text Classification, Sentiment Analysis, Question Answering
+- **Advanced AI**: RAG Pipelines, Autonomous AI Agents, Multi-step Task Execution
+- **Vector Databases**: ChromaDB, FAISS, Pinecone
+- **Frameworks**: LangChain, OpenAI API, Neural Networks
 
-#### **MLOps & Deployment**
+### **MLOps & Deployment**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### **Data Science & Analytics**
+### **Data Science**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
 
-#### 🤖 **Agentic Medical RAG Chatbot**
-> **Advanced AI Agent with RAG Integration**
-- Designed intelligent agent leveraging **Retrieval-Augmented Generation** for medical queries
-- Integrated external search tools and consultation booking system
-- **Tech Stack**: Python, LangChain, OpenAI API, FAISS, Gradio
-- **Key Features**: Multi-step reasoning, tool integration, automated scheduling
+### 🤖 **Agentic Medical RAG Chatbot**
+> Production-grade AI agent with intelligent tool integration
 
-#### 🌾 **Crop Recommendation & Soil Analysis System** *(Graduation Project - Grade: A+)*
-> **IoT-Enabled ML Solution for Agriculture**
-- Developed **97% accuracy** ML model deployed on Raspberry Pi
-- Real-time offline predictions using multi-sensor soil data (NPK, pH, temperature, humidity)
-- **Tech Stack**: Python, Scikit-learn, Arduino, Raspberry Pi, FastAPI
-- **Impact**: Enhanced accessibility for farmers in remote areas
+- Designed AI agent leveraging **Retrieval-Augmented Generation** for medical knowledge queries
+- Integrated external search tools and intelligent consultation booking system
+- Implemented automated data validation and scheduling workflows
+- **Tech Stack**: Python, LangChain, OpenAI API, Vector Database, Gradio
+- **Key Features**: Multi-step reasoning, tool integration, automated booking
 
-#### 🇸🇦 **AraBERT Fine-tuning for Arabic Sentiment Analysis**
-> **State-of-the-Art Arabic NLP Model**
-- Fine-tuned AraBERTv02 achieving **99% accuracy** on restaurant reviews
-- Deployed on Hugging Face Spaces for real-time interaction
+---
+
+### 🇸🇦 **AraBERT Fine-tuning for Arabic Sentiment Analysis**
+> State-of-the-art Arabic NLP with 99% accuracy
+
+- Fine-tuned **AraBERTv02** on 1,000 Arabic restaurant reviews for sentiment classification
+- Achieved **99% accuracy** on domain-specific dataset
+- Deployed production model on **Hugging Face Spaces** for real-time inference
 - **Tech Stack**: Python, Hugging Face Transformers, AraBERT, Gradio
-- [**Live Demo**](https://huggingface.co/spaces/moazx/Sentiment_analysis_for_restaurant_reviews_in_Arabic) 🚀
+- [**🚀 Live Demo**](https://huggingface.co/spaces/moazx/Sentiment_analysis_for_restaurant_reviews_in_Arabic)
 
-#### 📰 **Multi-Class News Classification System**
-> **High-Performance Text Classification**
-- Built SVM-based model categorizing news into 5 categories
-- Achieved **98% accuracy** on BBC News dataset
-- **Tech Stack**: Python, Scikit-learn, SVM, TF-IDF
-- [**Try it Live**](https://huggingface.co/spaces/moazx/News_Categorizer) 🔗
+---
 
-#### 🔍 **DeBERTa Fine-tuning for Deepfake Text Detection**
-> **Advanced Deepfake Detection System**
-- Fine-tuned DeBERTa model for machine-generated text detection
-- Achieved **97%+ accuracy** in identifying deepfake social media content
+### 📰 **Multi-Class News Classification System**
+> High-performance SVM-based text classification
+
+- Built SVM model for categorizing BBC News articles into 5 distinct categories
+- Achieved **98% accuracy** using TF-IDF vectorization and optimized hyperparameters
+- **Tech Stack**: Python, Scikit-learn, SVM, TF-IDF, NLP
+- [**🔗 Try it Live**](https://huggingface.co/spaces/moazx/News_Categorizer)
+
+---
+
+### 🔍 **DeBERTa Fine-tuning for Deepfake Text Detection**
+> Advanced ML system for detecting machine-generated text
+
+- Fine-tuned **DeBERTa** model with word embeddings for deepfake tweet identification
+- Achieved **97%+ accuracy** in distinguishing human vs. machine-generated content
+- Implemented robust evaluation pipeline with industry-standard metrics
 - **Tech Stack**: Python, PyTorch, Hugging Face Transformers, DeBERTa
 
 ---
 
-### 📊 GitHub Analytics
+### 🌾 **Crop Recommendation & Soil Analysis System** *(Graduation Project - Grade: A+)*
+> IoT-enabled ML solution deployed on edge devices
+
+- Developed **97% accuracy** ML model for crop recommendation deployed on **Raspberry Pi**
+- Real-time offline predictions using multi-sensor soil data (NPK, pH, temperature, humidity)
+- Designed full-stack solution from sensor integration to model deployment
+- **Tech Stack**: Python, Scikit-learn, Arduino, Raspberry Pi, FastAPI
+- **Impact**: Enhanced agricultural decision-making for farmers in remote areas
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moazeldsouky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -113,24 +139,35 @@ Results-driven AI Engineer with **1+ years** of specialized experience in **Natu
 
 ---
 
-### 🎯 Professional Achievements
+## 🎯 Professional Highlights
 
-- ✅ **15+ Successful AI Projects** delivered on Mostaql platform
-- ✅ **100% Client Satisfaction Rate** in freelance work
-- ✅ **Multiple Open-Source Projects** with community engagement
-- ✅ **Bilingual AI Expertise** in English and Arabic NLP applications
-- ✅ **Production-Ready Deployments** on cloud platforms and edge devices
+- ✅ **Production AI Systems** deployed at enterprise scale (Volaris LLC)
+- ✅ **15+ Successful Projects** delivered with 100% client satisfaction
+- ✅ **Medical AI Expertise** in RAG systems for healthcare applications
+- ✅ **Bilingual NLP** proficiency in English and Arabic applications
+- ✅ **Edge Deployment** experience with Raspberry Pi and IoT systems
+- ✅ **Open-Source Contributor** with community-facing ML projects
 
 ---
 
-### 💼 Let's Connect & Collaborate
+## 💡 Current Focus
 
-I'm always interested in discussing AI innovations, potential collaborations, or challenging projects. Whether you're looking to:
+- 🔬 Advancing expertise in **Autonomous AI Agents** and **Multi-Agent Systems**
+- 🚀 Exploring **LLM Optimization** techniques (LoRA, QLoRA, RLHF)
+- 🏥 Specializing in **Medical AI** and **Healthcare RAG Systems**
+- 📈 Deepening **MLOps** practices for scalable production deployments
+- 🤝 Open to collaboration on **Applied AI & NLP Research**
 
-- 🤝 **Collaborate** on cutting-edge AI research
-- 💡 **Discuss** latest developments in LLMs and NLP
-- 🚀 **Build** intelligent AI solutions for your business
-- 📚 **Share** knowledge about AI engineering best practices
+---
+
+## 📫 Let's Connect
+
+I'm passionate about building intelligent AI systems that solve real-world problems. Whether you're interested in:
+
+- 🤝 **Collaborating** on cutting-edge AI projects
+- 💡 **Discussing** LLMs, RAG systems, or AI agents
+- 🚀 **Building** production-ready ML solutions
+- 📚 **Sharing** knowledge about AI engineering
 
 **Feel free to reach out!**
 
@@ -138,7 +175,7 @@ I'm always interested in discussing AI innovations, potential collaborations, or
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-eldesouky-762288251/)
 [![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazeldsoky8@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/moazeldsokyx)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/moazeldsokyx)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201096448317)
 
 </div>
@@ -146,5 +183,7 @@ I'm always interested in discussing AI innovations, potential collaborations, or
 ---
 
 <div align="center">
-  <i>⭐ If you find my work interesting, consider starring some of my repositories!</i>
+  <i>⭐ If you find my work valuable, consider starring my repositories!</i>
+  <br>
+  <i>💼 Open to AI Engineering opportunities and collaborations</i>
 </div>
