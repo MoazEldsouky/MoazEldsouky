@@ -1,6 +1,6 @@
 # Hi 👋, I'm Moaz Eldsouky
 
-## AI Engineer | LLM, RAG & Document AI
+## AI Engineer | LLM, RAG & Multimodal AI
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-eldesouky-762288251/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moazeldsoky8@gmail.com)
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-AI Engineer with 2+ years of experience building production LLM and RAG systems for enterprise, government, and healthcare organizations. I specialize in fully offline, on-premises deployment of LLMs, VLMs, OCR, embedding, and reranking models. My deep focus is on Arabic-language document AI, including VLM OCR fine-tuning for handwritten legal text where open-source baselines consistently fail.
+AI Engineer with 1+ years of experience building production LLM and RAG systems for enterprise, government, and healthcare organizations. I specialize in fully offline, on-premises deployment of LLMs, VLMs, OCR, embedding, and reranking models. My deep focus is on Arabic-language document AI, including VLM OCR fine-tuning for handwritten legal text where open-source baselines consistently fail.
 
 - 💼 **Current Role**: Artificial Intelligence Engineer at **Skygate Information Technology** (May 2026 - Present)
 - 🔬 **Expertise**: Large-scale RAG architecture, LLM/VLM fine-tuning (LoRA, QLoRA), hybrid retrieval, and multimodal document AI
@@ -65,7 +65,7 @@ AI Engineer with 2+ years of experience building production LLM and RAG systems 
 - **Vector Databases**: Qdrant, FAISS, Chroma, Pinecone
 
 ### **Infrastructure & MLOps**
-- **Hardware & Serving**: On-premises AI infrastructure, NVIDIA H200 GPU servers, vLLM, GPU inference optimization
+- **Hardware & Serving**: On-premises AI infrastructure, NVIDIA GPUs servers, vLLM, GPU inference optimization
 - **Deployment**: FastAPI, Docker, CI/CD, Azure, AWS, PostgreSQL
 - **Security**: Role-based access control (RBAC), tenant/vault isolation, regulatory compliance
 
