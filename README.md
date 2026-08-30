@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-eldesouky-762288251/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:moazeldsoky8@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/moazeldsokyx)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6e40c9?style=flat&logo=github&logoColor=white)](https://moazeldsouky.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1F6FEB?style=flat&logo=github&logoColor=white)](https://moazeldsouky.github.io/Portfolio)
 ---
 ## 🚀 About Me
 AI Engineer with 1+ years of experience building production LLM and RAG systems for enterprise, government, and healthcare organizations. I specialize in fully offline, on-premises deployment of LLMs, VLMs, OCR, embedding, and reranking models. My deep focus is on Arabic-language document AI, including VLM OCR fine-tuning for handwritten legal text where open-source baselines consistently fail.
