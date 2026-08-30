@@ -45,13 +45,26 @@ AI Engineer with 1+ years of experience building production LLM and RAG systems 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**AI / ML Frameworks**
+**AI / ML Frameworks & Agent Orchestration**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**RAG, Evals & LLMOps**
+
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-4B0082?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Vector Databases**
 
@@ -63,9 +76,14 @@ AI Engineer with 1+ years of experience building production LLM and RAG systems 
 **Infrastructure & Deployment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -73,9 +91,12 @@ AI Engineer with 1+ years of experience building production LLM and RAG systems 
 
 ### **AI/ML Specializations**
 - **LLMs & Generative AI**: Fine-tuning (LoRA, QLoRA), air-gapped deployment, agentic AI, autonomous agents
+- **Agent Orchestration & MCP**: Multi-agent workflows with LangGraph, CrewAI, and AutoGen; tool integration via Model Context Protocol (MCP)
 - **Document AI & Multimodal**: Vision Language Models (VLMs), OCR pipelines, Arabic handwriting recognition, layout and table extraction
 - **RAG & Retrieval**: Hybrid retrieval (BM25 + dense), reranking models, chunking strategies, high-volume ingestion
-- **Hardware & Serving**: On-premises AI infrastructure, GPU servers, vLLM, GPU inference optimization
+- **LLMOps & Evaluation**: Prompt/version tracking and cost monitoring with LangSmith and Langfuse, quality evaluation with RAGAS
+- **Hardware & Serving**: On-premises AI infrastructure, GPU servers, vLLM, Ollama, GPU inference optimization
+- **Cloud AI Platforms**: AWS Bedrock, Google Vertex AI, Azure AI Studio
 - **Security**: Role-based access control (RBAC), tenant/vault isolation, regulatory compliance
 ---
 ## 🏆 Featured Projects
